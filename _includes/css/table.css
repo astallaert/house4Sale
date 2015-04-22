@@ -32,6 +32,9 @@
   @media screen and (max-width: 600px) {
     table {
       border: 0;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
     }
     table thead {
       display: none;
