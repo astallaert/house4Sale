@@ -2,7 +2,7 @@
     font-family: arial;
   }
   
-  table {
+  table.rooms {
     border: 1px solid #ccc;
     width: 50%;
     margin-left: 25%;
@@ -12,48 +12,48 @@
     border-spacing: 0;
   }
   
-  table tr {
+  table.rooms tr {
     border: 1px solid #ddd;
     padding: 5px;
   }
   
-  table th,
-  table td {
+  table.rooms th,
+  table.rooms td {
     padding: 10px;
     text-align: center;
   }
   
-  table th {
+  table.rooms th {
     text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 1px;
   }
   
   @media screen and (max-width: 600px) {
-    table {
+    table.rooms {
       border: 0;
       width: 100%;
       margin-left: 0;
       margin-right: 0;
     }
-    table thead {
+    table.rooms thead {
       display: none;
     }
-    table tr {
+    table.rooms tr {
       margin-bottom: 10px;
       display: block;
       border-bottom: 2px solid #ddd;
     }
-    table td {
+    table.rooms td {
       display: block;
       text-align: right;
       font-size: 13px;
       border-bottom: 1px dotted #ccc;
     }
-    table td:last-child {
+    table.rooms td:last-child {
       border-bottom: 0;
     }
-    table td:before {
+    table.rooms td:before {
       content: attr(data-label);
       float: left;
       text-transform: uppercase;
