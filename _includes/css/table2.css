@@ -14,11 +14,12 @@
   
   table.other tr {
     border: 0;
-    padding: 10px;
+    padding: 5px;
   }
   
   table.other td {
     border-bottom: 1px solid #ddd;
+    padding: 10px;
   }
 
   table.other th,
