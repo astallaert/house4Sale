@@ -33,6 +33,7 @@
     /*letter-spacing: 1px;*/
     font-weight: bold;
     border-bottom: 0;
+    padding: 0;
   }
   
   @media screen and (max-width: 600px) {
