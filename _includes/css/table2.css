@@ -11,7 +11,7 @@
     border-collapse: collapse;
     border-spacing: 0;
     float: left;
-    vertical-align: top;
+    vertical-align: text-top;
   }
   
   table.other tr {
