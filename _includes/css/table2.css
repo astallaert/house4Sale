@@ -4,14 +4,14 @@
   
   table.other {
     border: 1px solid #ccc;
-    width: 27%;
-    margin-left: 3%;
-    margin-right: 3%;
-    padding: 1;
+    width: 250px;
+    margin: auto;
+    /*margin-left: 25%;
+    margin-right: 25%;*/
+    padding: 0;
     border-collapse: collapse;
     border-spacing: 0;
     float: left;
-    vertical-align: text-top;
   }
   
   table.other tr {
