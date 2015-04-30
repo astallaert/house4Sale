@@ -4,14 +4,10 @@
   
   table.other {
     border: 1px solid #ccc;
-    width: 27%;
-    margin-left: 3%;
-    margin-right: 3%;
+    width: 300px;
     padding: 1;
     border-collapse: collapse;
     border-spacing: 0;
-    float: left;
-    vertical-align: text-top;
   }
   
   table.other tr {
