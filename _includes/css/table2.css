@@ -4,10 +4,9 @@
   
   table.other {
     border: 1px solid #ccc;
-    width: 250px;
-    margin: auto;
-    /*margin-left: 25%;
-    margin-right: 25%;*/
+    width: 27%;
+    margin-left: 3%;
+    margin-right: 3%;
     padding: 1;
     border-collapse: collapse;
     border-spacing: 0;
