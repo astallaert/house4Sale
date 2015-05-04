@@ -1,5 +1,4 @@
-<style>
-div.img {
+/*div.img {
     margin: 5px;
     padding: 5px;
     border: 1px solid #0000ff;
@@ -25,11 +24,11 @@ div.desc {
     width: 120px;
     margin: 5px;
 }
+*/
 .center-image
 {
     margin: 0 auto;
-    /*display: block;*/
-    display: inline;
+    display: block;
     width: 500px;
     max-width: 640px;
     margin-bottom: 20px;
