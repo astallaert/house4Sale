@@ -36,4 +36,5 @@ div.desc {
     display: block;
     width: 100%;
     max-width: 640px;
+    padding-bottom: 10px;
 }
