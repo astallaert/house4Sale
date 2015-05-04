@@ -33,3 +33,13 @@ div.desc {
     max-width: 640px;
     margin-bottom: 20px;
 }
+
+.top-image
+{
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 20px;
+    border-radius: 100px;
+}
