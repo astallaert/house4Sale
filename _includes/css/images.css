@@ -32,8 +32,7 @@ div.desc {
 }
 .center-image
 {
-    margin: 0 auto;
-    display: block;
+
     width: 100%;
     max-width: 640px;
     padding-bottom: 30px;
