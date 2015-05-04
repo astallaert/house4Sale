@@ -27,8 +27,8 @@ div.desc {
 */
 .center-image
 {
- /*   margin: 0 auto;
-    display: block;*/
+ /*   margin: 0 auto;*/
+    display: inline;
     width: 500px;
     max-width: 640px;
     margin-bottom: 20px;
